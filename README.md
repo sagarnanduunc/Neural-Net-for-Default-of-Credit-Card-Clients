@@ -10,7 +10,7 @@
 
 
 ## Data Set Used:
-<b>default of credit card clients Data Set</b>
+<b>Default of credit card clients</b><br>
 Source: https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients#
 
 ## Neural Network:
